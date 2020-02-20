@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "402992528371-38p6a1stpmhildirc0p4gpo1qbsccn07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.albertkozak.chatee",
+            "certificate_hash": "b471534ca3aba0984d68ab1ae3590cc108d17bbf"
+          }
+        },
+        {
           "client_id": "402992528371-h6hhtsmqric1tdsnsfitek7hh1bktu9b.apps.googleusercontent.com",
           "client_type": 3
         }
