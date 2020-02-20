@@ -20,5 +20,5 @@
             android:name=".AuthActivity"
             android:windowSoftInputMode="adjustResize" />
     </application>
-
 </manifest>
+

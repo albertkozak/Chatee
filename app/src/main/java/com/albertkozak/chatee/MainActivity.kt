@@ -22,10 +22,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(AuthActivity.newIntent(AuthMode.Register, this))
         }
 
-        // Test Message to Firebase
-        val database = FirebaseDatabase.getInstance()
-        val myRef = database.getReference("message")
-        myRef.setValue("711 DA BEST")
+//        Test Message to Firebase
+//        val database = FirebaseDatabase.getInstance()
+//        val myRef = database.getReference("message")
+//        myRef.setValue("711 DA BEST")
     }
 
     sealed class AuthMode() : Parcelable {
